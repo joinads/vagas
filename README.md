@@ -13,4 +13,4 @@ Vagas disponíveis em https://github.com/joinads/vagas/issues
 
 ## Licença
 
-[MIT](/LICENSE) &copy; PHPDevBR ee FrontendBR
+[MIT](/LICENSE) &copy; JoinAds
